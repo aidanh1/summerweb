@@ -1,0 +1,43 @@
+
+body {
+	background-color: blue;
+	color: white;
+	font-family: 'Indie Flower', cursive;
+	margin: auto;
+	text-align: center;
+
+}
+
+p {
+	margin: auto;
+	text-align: center;
+	width: 500px;
+}
+
+#d1 {
+	color: black;
+	background-color: white;
+	border: 1px solid;
+	border-color: whitesmoke;
+	width: 500px;
+	margin: auto;
+}
+
+img {
+	border: 5px solid;
+	border-color: black;
+}
+
+a {
+	font-size: 20px;
+	color: black;
+}
+
+#important {
+	color: grey;
+}
+
+#email {
+	font-size: 20px;
+	color: black;
+}
